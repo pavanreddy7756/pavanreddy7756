@@ -55,9 +55,9 @@ I build production systems end-to-end — multi-agent AI pipelines, enterprise p
 
 ### Certifications
 
-🏅 **GitHub Copilot (GH-300)** — AI-assisted development & prompt engineering for code
+🏅 **Developing Agentic AI Systems (GH-600)** — Multi-agent system design & AI automation ⭐
 
-🏅 **Developing Agentic AI Systems (GH-600)** — Multi-agent system design & AI automation
+🏅 **GitHub Copilot (GH-300)** — AI-assisted development & prompt engineering for code
 
 ---
 
