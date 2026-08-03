@@ -62,13 +62,4 @@ Upload clothing photos, get context-aware outfit recommendations via multimodal 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pavanreddy7756&show_icons=true&theme=default&hide_border=true&title_color=24292f&icon_color=6366F1&text_color=57606a" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanreddy7756&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&langs_count=6" height="160"/>
-</div>
-
----
-
 <sub>Currently building AI systems that turn hours of manual work into minutes of automation. Open to interesting conversations — reach out on LinkedIn.</sub>
