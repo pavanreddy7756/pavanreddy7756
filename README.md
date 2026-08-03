@@ -1,65 +1,73 @@
-# Pavan Reddy Suggu
+# Hey, I'm Pavan 👋
 
-**Software Engineer at Deloitte USI | Hyderabad, India**
+### Software Engineer @ Deloitte USI · 3x Spot Award Winner · Building AI that replaces hours with minutes
 
-I build end-to-end — from multi-agent AI systems to production SaaS. ~2+ years shipping Python, .NET, React, and Next.js at enterprise scale. I own features solo, integrate LLMs into real workflows, and ship my own products on the side.
+I build production systems end-to-end — multi-agent AI pipelines, enterprise platforms, and SaaS products I ship on my own time. I don't just use frameworks, I design systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-reddy-suggu-651788259/)
-[![SpeakCV](https://img.shields.io/badge/SpeakCV-Live_Product-6366F1?style=flat)](https://speakcv.live)
-[![Email](https://img.shields.io/badge/Email-suggupavanreddy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suggupavanreddy@gmail.com)
-
----
-
-### What I've Shipped
-
-| Metric | Detail |
-|--------|--------|
-| **< 2 min** | Multi-agent AI system replacing a 60–90 min manual process |
-| **233%** | Homepage performance improvement via deferred loading |
-| **20,000+ users** | Timezone defect fix impacting global user base |
-| **3x Spot Awards** | Recognized at Deloitte for high-impact AI delivery |
-| **5 agents** | Production multi-agent pipeline (OCR → Extraction → Comparison → Formatting → Validation) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-pavanreddy.vercel.app-10b981?style=flat-square)](https://portfolio-tan-eta-86.vercel.app)
+[![SpeakCV](https://img.shields.io/badge/SpeakCV-Live_SaaS-6366F1?style=flat-square)](https://speakcv.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-reddy-suggu-651788259/)
+[![Email](https://img.shields.io/badge/Email-suggupavanreddy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suggupavanreddy@gmail.com)
 
 ---
 
-### Tech I Work With
+### Impact at a glance
 
-**AI / ML** — LangChain, LangGraph, Azure OpenAI, Google Gemini, ChromaDB, RAG, Vector Embeddings, Prompt Engineering
-
-**Languages** — Python, C#, TypeScript, JavaScript
-
-**Backend** — FastAPI, ASP.NET Core, Node.js, CQRS, REST APIs
-
-**Frontend** — React, Next.js, React Native, Blazor, Tailwind CSS
-
-**Data** — PostgreSQL, SQL Server, MongoDB, Supabase, ChromaDB
-
-**Infra** — Azure, Vercel, Docker, Git, Linux
+```
+ < 2 min     ██████████████████████████  Replaced 60–90 min manual process with multi-agent AI
+   233%      ██████████████████████████  Homepage performance improvement (enterprise app)
+ 20,000+     ██████████████████████████  Users impacted by critical timezone fix I shipped
+    5        ██████████████████████████  Specialized AI agents in production pipeline
+    3x       ██████████████████████████  Spot Award winner at Deloitte for high-impact delivery
+   60%       ██████████████████████████  Page load time reduction through caching + query optimization
+```
 
 ---
 
-### Featured Projects
+### What I build
 
-**[SpeakCV](https://speakcv.live)** — Live SaaS with paying users
-Voice-to-resume builder. Speak your experience, get an ATS-optimized LaTeX resume in under 60 seconds.
-- Custom speech recognition → Gemini AI generation → LaTeX compilation → PDF
-- Circuit breaker pattern, HMAC-SHA256 webhook verification, rate limiting
-- Freemium model with Razorpay payments, resume vault with versioning
-- Built with Next.js, Supabase, Google Gemini, Vercel
+**At Deloitte USI** — I design and ship AI systems and enterprise platforms
 
-**[OutfitAI](https://github.com/pavanreddy7756/OutfitAI)** — AI wardrobe assistant
-Upload clothing photos, get context-aware outfit recommendations via multimodal LLMs.
-- Gemini Vision extracts structured clothing attributes from photos
-- Deterministic JSON output for clean AI-to-UI rendering
-- Built with React Native, FastAPI, MongoDB
+- **Multi-agent AI pipeline** — 5 agents (OCR → Extraction → Comparison → Formatting → Validation) with hybrid orchestration, confidence scoring, and human-in-the-loop fallback. Replaced a 60–90 min manual process.
+- **Semantic search** — Vectorized a skills database using OpenAI embeddings + ChromaDB for meaning-based discovery instead of keyword matching
+- **AI skill auto-tagging** — LLM inference engine that generates skill tags from course content, replacing entirely manual tagging
+- **Sprint dependency detection** — Vector embeddings + ChromaDB to surface cross-sprint blockers before they cause delays
+- **Enterprise platform engineering** — CQRS architecture, 233% performance gains, secure exports for 112+ roles, SQL Server → PostgreSQL migrations
+
+**On my own time** — I ship real products
+
+- **[SpeakCV](https://speakcv.live)** — Live SaaS with paying users. Voice-to-resume builder with AI generation, LaTeX compilation, circuit breaker pattern, HMAC webhook verification, Razorpay payments, and a 5-dimension ATS scoring engine
+- **[DragCSS](https://chromewebstore.google.com/detail/dragcss/ckhcfpfcfojacfkkpcpbnpeeegolebnj)** — Chrome DevTool extension. Drag elements visually, export CSS diffs formatted for Copilot/ChatGPT/Claude
+- **[OutfitAI](https://github.com/pavanreddy7756/OutfitAI)** — Multimodal AI wardrobe app. Gemini Vision extracts clothing attributes, generates outfit recommendations
+
+---
+
+### Tech
+
+| | |
+|---|---|
+| **AI** | Multi-Agent Systems · LangChain · LangGraph · Azure OpenAI · Google Gemini · RAG · ChromaDB · Prompt Engineering |
+| **Backend** | Python · FastAPI · C# · ASP.NET Core · Node.js · CQRS · REST APIs |
+| **Frontend** | React · Next.js · React Native · Blazor · TypeScript · Tailwind CSS |
+| **Data** | PostgreSQL · SQL Server · MongoDB · Supabase · ChromaDB · SQLite |
+| **Infra** | Azure · Vercel · Docker · Git · Linux · LaTeX Systems |
 
 ---
 
 ### Certifications
 
-- **GitHub Copilot (GH-300)** — AI-assisted development & prompt engineering for code
-- **Developing Agentic AI Systems (GH-600)** — Multi-agent system design & AI automation
+🏅 **GitHub Copilot (GH-300)** — AI-assisted development & prompt engineering for code
+
+🏅 **Developing Agentic AI Systems (GH-600)** — Multi-agent system design & AI automation
 
 ---
 
-<sub>Currently building AI systems that turn hours of manual work into minutes of automation. Open to interesting conversations — reach out on LinkedIn.</sub>
+### Education
+
+🎓 **GITAM University** — B.Tech Computer Science · CGPA 8.04/10 · 2020–2024
+
+---
+
+<p align="center">
+  <sub>I build systems that turn hours of manual work into minutes of automation.<br/>Open to interesting conversations — <a href="https://www.linkedin.com/in/pavan-reddy-suggu-651788259/">let's connect</a>.</sub>
+</p>
