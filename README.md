@@ -1,10 +1,10 @@
 # Hey, I'm Pavan 👋
 
-### Software Engineer @ Deloitte USI · 3x Spot Award Winner · Building AI that replaces hours with minutes
+### Software Engineer @ Deloitte USI · Building multi-agent AI systems & shipping SaaS
 
 I build production systems end-to-end — multi-agent AI pipelines, enterprise platforms, and SaaS products I ship on my own time. I don't just use frameworks, I design systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pavanreddy.vercel.app-10b981?style=flat-square)](https://portfolio-tan-eta-86.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-suggupavanreddy.vercel.app-10b981?style=flat-square)](https://suggupavanreddy.vercel.app)
 [![SpeakCV](https://img.shields.io/badge/SpeakCV-Live_SaaS-6366F1?style=flat-square)](https://speakcv.live)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-reddy-suggu-651788259/)
 [![Email](https://img.shields.io/badge/Email-suggupavanreddy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suggupavanreddy@gmail.com)
@@ -13,14 +13,13 @@ I build production systems end-to-end — multi-agent AI pipelines, enterprise p
 
 ### Impact at a glance
 
-```
- < 2 min     ██████████████████████████  Replaced 60–90 min manual process with multi-agent AI
-   233%      ██████████████████████████  Homepage performance improvement (enterprise app)
- 20,000+     ██████████████████████████  Users impacted by critical timezone fix I shipped
-    5        ██████████████████████████  Specialized AI agents in production pipeline
-    3x       ██████████████████████████  Spot Award winner at Deloitte for high-impact delivery
-   60%       ██████████████████████████  Page load time reduction through caching + query optimization
-```
+| Metric | Impact |
+|:------:|--------|
+| **< 2 min** | Replaced 60–90 min manual process with multi-agent AI |
+| **233%** | Homepage performance improvement (enterprise app) |
+| **20,000+** | Users impacted by critical timezone fix I shipped |
+| **5** | Specialized AI agents in production pipeline |
+| **60%** | Page load time reduction through caching + query optimization |
 
 ---
 
